@@ -1,2 +1,1 @@
 this is my first line for abc
-this is second line for abc
