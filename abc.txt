@@ -4,3 +4,4 @@ this is 3rd line for abc
 this is 4th line for abc
 this is the 5th line for abc
 this is the confict line
+this is the chnages for the jenkins poll scm
